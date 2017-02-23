@@ -2,8 +2,8 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM j2/node-base:3.1.0-astatine
-MAINTAINER Selenium <dj@codetestcode.io>
+FROM selenium/node-base:3.1.0-astatine
+MAINTAINER Selenium <selenium-developers@googlegroups.com>
 
 USER root
 
